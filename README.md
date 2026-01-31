@@ -61,7 +61,8 @@
 
 ---
 
-<h3 align="center">📊 GitHub Stats</h3>
-<div align="center">
+## 📊 Linguagens mais utilizadas
+
+![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=BrenoBTrindade&layout=compact)
 
 
