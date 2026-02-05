@@ -34,7 +34,7 @@
 
 <p align="center">
   📧 <strong>Email:</strong> <a href="mailto:SEU_EMAIL_AQUI">BrenoKaminski@gmail.com</a> <br/>
-  🔗 <strong>LinkedIn:</strong> <a href="https://www.linkedin.com/in/SEU_LINKEDIN_AQUI/" target="_blank">linkedin.com/in/betrindade</a>
+  🔗 <strong>LinkedIn:</strong> <a href="https://www.linkedin.com/in/betrindade/" target="_blank">linkedin.com/in/betrindade</a>
 </p>
 
 ---
